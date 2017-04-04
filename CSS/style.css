@@ -1,5 +1,5 @@
 .navbar-transparent {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .navbar-transparent .navbar-brand,
@@ -23,7 +23,7 @@
 
 body {
 	background-color: #FFF;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Comfortaa', sans-serif;
 }
 
 /*here we will play with the different element of the table giving the personal details*/
@@ -79,8 +79,8 @@ body {
 }
 
 h2 {
-	font-size: 28px;
-	font-family: 'Roboto', sans-serif;
+	font-size: 32px;
+	font-family: 'Overlock', sans-serif;
 	color: #0349A8;
 	font-variant: small-caps;
 	border-bottom: 3px solid #00275C;
